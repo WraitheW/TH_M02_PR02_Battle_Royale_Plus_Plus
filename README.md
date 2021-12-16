@@ -1,2 +1,2 @@
-# https://wraithew.github.io/TH_M02_PR02_Battle_Royale_Plus_Plus/
+# Play it here: https://wraithew.github.io/TH_M02_PR02_Battle_Royale_Plus_Plus/
  
